@@ -1,6 +1,14 @@
-## Hi I'm Kabir 👋 A lot of my projects are also on my other Github - https://github.com/kabirpuri
+# Kabir Puri
 
-- 🌐 https://kabirpuri.github.io
-- 📫 How to reach me: kapuri@seas.upenn.edu / kabirpuri117@gmail.com
+Robotics engineer focused on motion planning, MPC, and manipulation.
+MS Robotics, University of Pennsylvania. Co-founder and CTO, Novara Robotics.
 
+**Python · C++ · ROS 2 · MoveIt 2**
 
+**Pinned work**
+- NonPlanarMPC: MPC for non-holonomic robots on nonplanar terrain (paper)
+- SBAMP: sampling-based adaptive motion planning (paper)
+- SwarmSync: distributed MPC for multi-drone planning
+- centralmpc: centralized MPC for multi-robot collision avoidance
+
+[Website](https://kabirpuri.github.io) · [LinkedIn](LINKEDIN_URL) · kabirpuri117@gmail.com
